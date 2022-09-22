@@ -1,4 +1,4 @@
-import './index.scss';
+import './i3ndex.scss';
 
 export default function Index(){
 
