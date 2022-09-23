@@ -1,13 +1,19 @@
-import './Index.scss';
+import { Link } from "react-router-dom";
+import './index.scss'
+import React from 'react';
+
 
 export default function Index(){
-
+  document.title = ''
     return(
-       <main>
-         <section>
-             <h1>teste</h1>
-         </section>
+       <div className="mae-home">
+     
+         
+       
+         
+         
+      
 
-       </main> 
+       </div> 
     )
 }
